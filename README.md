@@ -51,6 +51,6 @@ The dashboard centralizes financial transaction analysis to support better busin
 - `data/` - Sample or anonymized data, if shareable
 
 ## Author
-**Abhishek Holkar**  
+**RAVIKANT BHARDWAJ**  
 Aspiring Finance / Data Analyst  
-[LinkedIn](www.linkedin.com/in/abhishek-holkar-989893259)
+
